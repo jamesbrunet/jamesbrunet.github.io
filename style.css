@@ -7,6 +7,16 @@ article {
     text-align: center;
 }
 
+.login-input {
+    width: 100%;
+    font-size: 20px;
+}
+
+.login-form {
+    width: 40%;
+    margin: auto;
+}
+
 .heading-centre-small {
     font-size: 20px;
     text-align: center;
