@@ -8,15 +8,15 @@ article {
 }
 
 .success {
-  padding: 10;
+  padding: 10px;
   background-color: #65a765;
-  margin-bottom: 20;
+  margin-bottom: 20px;
 
 }
 .ballot-option {
     font-size: 30px;
     background-color: #FFF;
-    padding: 10;
+    padding: 10px;
     border-style: solid;
     border-color: #EEE;
 }
