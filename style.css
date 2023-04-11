@@ -7,6 +7,25 @@ article {
     text-align: center;
 }
 
+.ballot-option {
+    font-size: 30px;
+    background-color: FFF;
+    padding: 10;
+    border-style: solid;
+    border-color: #EEE;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 2em;
+    height: 2em;
+}
+
+.vote-form {
+    width: 500px;
+    margin: auto;
+}
+
 .login-input {
     width: 100%;
     font-size: 20px;
@@ -17,9 +36,15 @@ article {
     margin: auto;
 }
 
+
+
 .heading-centre-small {
     font-size: 20px;
     text-align: center;
+}
+
+.button-right-container {
+    text-align: right;
 }
 
 .button-centre-container {
